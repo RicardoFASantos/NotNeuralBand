@@ -99,5 +99,9 @@ You can help with:
 
 ## 📧 Contact
 
-Developed originally by **Exatronic – Eng. Electrónica, Lda** (Portugal).  
+Developed originally by **Ricardo Santos**.
+For questions, suggestions, or collaborations:  
+- Email: ricardo.santos.eb@gmail.com 
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/ricardofasantos/)  
+- Twitter/X: [@yourhandle](https://twitter.com/RicardoSan43564)
 Open-sourced by the community for further research and prototyping.  
