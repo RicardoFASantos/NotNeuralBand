@@ -38,9 +38,6 @@
   - Bluetooth module  
   - LED indicators  
 
-📖 Full schematic prints: [`hardware/PCB schematic.pdf`](hardware/PCB schematic.pdf)  
-📋 Full BOM: [`hardware/BOM.pdf`](hardware/BOM.pdf)
-
 ---
 
 ## 🛠️ Manufacturing
@@ -50,7 +47,15 @@ To order PCBs:
 1. Use the **Gerber files** in `/hardware`.  
 2. Upload to a PCB manufacturer (e.g., JLCPCB, PCBWay, OSH Park).  
 3. Provide BOM to source components.  
-4. Assemble manually or via pick-and-place.  
+4. Assemble manually or via pick-and-place.
+
+---
+
+## ⚠️ Design Notes
+
+- This design uses a **virtual ground electrode** implementation.  
+  No physical ground electrode is required for operation, as the ADS1294 reference (RLD) is internally stabilized.  
+  This simplifies assembly and makes the device more wearable.  
 
 ---
 
@@ -80,20 +85,6 @@ You can help with:
 - Better assembly guides  
 - Testing & validation reports  
 - Migrating schematics into KiCad for wider community use  
-
----
-
-## 📸 Gallery
-
-*(Add board photos, assembled PCB pictures, or diagrams in `docs/README_assets/` and link them here.)*  
-
----
-
-## ⚠️ Design Notes
-
-- This design uses a **virtual ground electrode** implementation.  
-  No physical ground electrode is required for operation, as the ADS1294 reference (RLD) is internally stabilized.  
-  This simplifies assembly and makes the device more wearable.  
 
 ---
 
