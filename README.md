@@ -1,6 +1,7 @@
 ## 🎥 Tutorials
 
-- [Assembly and Soldering Guide]([[https://www.youtube.com/watch?v=QBMT7gawo7k](https://www.youtube.com/watch?v=QBMT7gawo7k)])  
+[![Assembly Tutorial](https://img.youtube.com/vi/QBMT7gawo7k/hqdefault.jpg)](https://www.youtube.com/watch?v=QBMT7gawo7k)
+
 
 ---
 
