@@ -1,3 +1,6 @@
+## 🎥 Tutorials
+
+- [Assembly and Soldering Guide]([https://www.youtube.com/watch?v=XXXXXXXX](https://www.youtube.com/watch?v=QBMT7gawo7k))  
 
 ---
 
