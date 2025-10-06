@@ -31,7 +31,7 @@
   - Bluetooth module  
   - LED indicators  
 
-📖 Full schematic prints: [`docs/PCB schematic.pdf`](docs/PCB schematic.pdf)  
+📖 Full schematic prints: [`hardware/PCB schematic.pdf`](docs/PCB schematic.pdf)  
 📋 Full BOM: [`hardware/BOM.pdf`](hardware/BOM.pdf)
 
 ---
