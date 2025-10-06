@@ -1,10 +1,10 @@
 ## 🎥 Vintage Video gallery
 
 ***Trying different gestures based on muscle activity and motion:***
-[![Assembly Tutorial](https://img.youtube.com/vi/8NtrBwCGjhw/hqdefault.jpg)](https://www.youtube.com/watch?v=8NtrBwCGjhw)
+- [![Assembly Tutorial](https://img.youtube.com/vi/8NtrBwCGjhw/hqdefault.jpg)](https://www.youtube.com/watch?v=8NtrBwCGjhw)
 
 ***Assembly a 3D printed bracelet with a PCB board:***
-[![Assembly Tutorial](https://img.youtube.com/vi/L2T6ioK4wVY/hqdefault.jpg)](https://www.youtube.com/watch?v=L2T6ioK4wVY)
+- [![Assembly Tutorial](https://img.youtube.com/vi/L2T6ioK4wVY/hqdefault.jpg)](https://www.youtube.com/watch?v=L2T6ioK4wVY)
 
 ---
 
