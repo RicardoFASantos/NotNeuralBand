@@ -3,7 +3,7 @@
 
 ## ✨ Features
 
-- **Analog Front-End:** TI ADS1294 – 4-channel, 24-bit ADC with integrated ECG/EMG front-end  
+- **Analog Front-End:** TI ADS1294 – 4-channel, 24-bit ADC with integrated EMG front-end  
 - **MCU:** ATmega1284P – 8-bit AVR, 128KB Flash, 16KB SRAM  
 - **Motion Sensing:** NXP MMA8652 3-axis accelerometer  
 - **Wireless:** BR-LE4.0-D2A Bluetooth Low Energy module  
@@ -26,12 +26,12 @@
 - **Board Layers:** 2-layer design  
 - **Main Blocks:**
   - Power supply & battery charging  
-  - Biosignal AFE (EMG/ECG)  
+  - Biosignal AFE (EMG)  
   - Microcontroller control  
   - Bluetooth module  
   - LED indicators  
 
-📖 Full schematic prints: [`docs/Minerva_Projrct.pdf`](docs/Minerva_Projrct.pdf)
+📖 Full schematic prints: [`docs/PCB_schematic.pdf`](docs/PCB_schematic.pdf)
 
 ---
 
