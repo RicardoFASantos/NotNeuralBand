@@ -90,7 +90,7 @@ You can help with:
 
 ## 📧 Contact
 
-Developed originally by **Ricardo Santos**.
+Developed originally by **Ricardo Santos** and a group of friends.
 For questions, suggestions, or collaborations:  
 - Email: ricardo.santos.eb@gmail.com 
 - LinkedIn: [Your Profile](https://www.linkedin.com/in/ricardofasantos/)  
