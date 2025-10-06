@@ -31,22 +31,8 @@
   - Bluetooth module  
   - LED indicators  
 
-📖 Full schematic prints: [`docs/PCB_schematic.pdf`](docs/PCB_schematic.pdf)
-
----
-
-## 📋 Bill of Materials (BOM)
-
-See [`hardware/BOM.pdf`](hardware/BOM.pdf) for the full part list.  
-Highlights include:
-
-- **U1:** ADS1294IPAG – 4-ch 24-bit ADC  
-- **U2:** ATmega1284P-MUR – 8-bit AVR MCU  
-- **U3:** MMA8652FCR1 – 3-axis accelerometer  
-- **U4:** IS31FL3199 – LED driver  
-- **U5:** TPS78233 – LDO regulator  
-- **U6:** MCP73831 – Li-ion charger  
-- **U7:** NCP300L – voltage detector  
+📖 Full schematic prints: [`docs/PCB schematic.pdf`](docs/PCB schematic.pdf)  
+📋 Full BOM: [`hardware/BOM.pdf`](hardware/BOM.pdf)
 
 ---
 
@@ -54,7 +40,7 @@ Highlights include:
 
 To order PCBs:
 
-1. Use the **Gerber files** in `/gerbers` (or `/hardware/` folder).  
+1. Use the **Gerber files** in `/hardware`.  
 2. Upload to a PCB manufacturer (e.g., JLCPCB, PCBWay, OSH Park).  
 3. Provide BOM to source components.  
 4. Assemble manually or via pick-and-place.  
@@ -86,7 +72,7 @@ You can help with:
 - Firmware development examples  
 - Better assembly guides  
 - Testing & validation reports  
-- Schematics migration to KiCad for broader accessibility  
+- Migrating schematics into KiCad for wider community use  
 
 ---
 
@@ -96,7 +82,15 @@ You can help with:
 
 ---
 
+## ⚠️ Design Notes
+
+- This design uses a **virtual ground electrode** implementation.  
+  No physical ground electrode is required for operation, as the ADS1294 reference (RLD) is internally stabilized.  
+  This simplifies assembly and makes the device more wearable.  
+
+---
+
 ## 📧 Contact
 
-Developed originally by **Ricardo Santos** (Portugal).  
+Developed originally by **Exatronic – Eng. Electrónica, Lda** (Portugal).  
 Open-sourced by the community for further research and prototyping.  
