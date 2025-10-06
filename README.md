@@ -90,9 +90,9 @@ You can help with:
 
 ## 📧 Contact
 
-Developed originally by **Ricardo Santos** and a group of friends.
+Developed originally by **Ricardo Santos** with his friends from college Andreia Dias, Dora Inácio, Eduardo e Rui Santos.
 For questions, suggestions, or collaborations:  
 - Email: ricardo.santos.eb@gmail.com 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/ricardofasantos/)  
-- Twitter/X: [@yourhandle](https://twitter.com/RicardoSan43564)
+- LinkedIn: [ricardofasantos](https://www.linkedin.com/in/ricardofasantos/)  
+- Twitter/X: [@RicardoSan43564](https://twitter.com/RicardoSan43564)
 Open-sourced by the community for further research and prototyping.  
